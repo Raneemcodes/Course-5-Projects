@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="algo1_2/algo1_2.vcxproj" Id="46ea2289-f344-4a4a-b2f0-98ccab129b08" />
+</Solution>
